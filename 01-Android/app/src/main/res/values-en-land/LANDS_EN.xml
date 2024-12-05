@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Condición 1: LANDSCAPE EN -->
+    <string name="texto">Si no arriesgas tu vida, no puedes crear un futuro.</string>
+    <color name="saludoColor">#6F0185</color>
+    <color name="saludobc">#34C5AE</color>
+</resources>

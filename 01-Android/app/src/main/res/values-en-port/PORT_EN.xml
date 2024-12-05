@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Condición 2: PORTRAIT EN -->
+    <string name="texto">El más valiente no es el que gana más batallas, sino el que realmente se enfrenta a sus miedos.</string>
+    <color name="saludoColor">#AD954B33</color>
+    <color name="saludobc">#3ED045</color>
+</resources>

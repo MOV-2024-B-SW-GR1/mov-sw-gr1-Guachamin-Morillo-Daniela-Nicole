@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Condición 4: PORTRAIT ES -->
+    <string name="texto">Si no cambias, nada cambia</string>
+    <color name="saludoColor">#2196F3</color>
+    <color name="saludobc">#CDDC39</color>
+</resources>

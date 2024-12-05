@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Condición 3: LANDSCAPE ES -->
+    <string name="texto">No pierde quien más veces cae, sino aquel que renuncia a levantarse.</string>
+    <color name="saludoColor">#660222</color>
+    <color name="saludobc">#3F51B5</color>
+</resources>
